@@ -43,6 +43,7 @@ function HorizontalCard (props) {
           width: 35%;
           background-repeat: no-repeat;
           background-size: cover;
+          background-position: 50% 50%;
         }
 
         .horizontal-card .card-element.description {
